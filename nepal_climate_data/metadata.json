@@ -1,0 +1,18 @@
+{
+  "title": "Nepal Climate Change Synthetic Dataset",
+  "description": "Synthetic climate data for Nepal showing baseline (2020) and projected (2050) conditions",
+  "created_date": "2025-03-12",
+  "spatial_coverage": "Nepal (80.0, 26.3) to (88.2, 30.5)",
+  "temporal_coverage": "2020 (baseline) and 2050 (projection)",
+  "raster_resolution": "0.0205 degrees (~2.275500000000001km at equator)",
+  "projection": "EPSG:4326 (WGS84)",
+  "scenario": "Synthetic data approximating RCP4.5-like scenario",
+  "variables": {
+    "temperature": "Monthly average temperature in degrees Celsius",
+    "precipitation": "Monthly total precipitation in millimeters",
+    "admin_regions": "Administrative regions with climate vulnerability index",
+    "rivers": "Major river systems with projected flow changes",
+    "glaciers": "Glacier monitoring points with retreat rates"
+  },
+  "notes": "This is synthetic data for demonstration purposes. It should not be used for actual climate research or planning."
+}
